@@ -9,8 +9,8 @@ That's it.
 
 ### Language Used:
 To make this site, I used the following languages:
-* HTML - the information represented on the page.
-* CSS - the style or look of the information.
+* **HTML** - _the information represented on the page._
+* **CSS** - _the style or look of the information._
 
 ### Build With:
-Visual Studio Code - The editor of choice
+**Visual Studio Code** - _The editor of choice._
